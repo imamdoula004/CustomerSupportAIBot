@@ -1,0 +1,6 @@
+Customer: Imam
+Query: There was a broken piece in my order.
+---
+Customer: John 
+Query: I want to check for my order.
+---
